@@ -113,7 +113,6 @@ h2 {
 .icon-phone,
 .icon-mail {
   margin-right: 10px;
-  fill: var(--paragraph-color);
 }
 
 .page:hover {
