@@ -122,9 +122,10 @@ h2 {
 .contact:hover {
   color: var(--brand-color);
 }
-a > svg {
+a > .mword {
   stroke: currentColor;
 }
+
 /*main*/
 .header .container {
   display: flex;
@@ -440,7 +441,9 @@ footer {
   padding-top: 60px;
   padding-bottom: 60px;
 }
-
+footer address {
+  margin-top: 20px;
+}
 .back {
   line-height: 1.71;
   color: #ffffff;
