@@ -73,7 +73,6 @@ h2 {
   color: var(--brand-color);
   text-decoration: none;
   text-transform: capitalize;
-  margin: 0 auto;
 }
 .blacktext {
   color: #212121;
@@ -456,6 +455,7 @@ footer address {
 }
 .footer-flex {
   display: flex;
+  align-items: baseline;
 }
 
 .joinus {
